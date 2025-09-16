@@ -1,0 +1,2 @@
+- ibapi.order import Order 
+	- เอาไว้สำหรับซื้อขาย

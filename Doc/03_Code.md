@@ -1,0 +1,4 @@
+- tickPrice
+	- เป็นการ tick การเปลี่ยนแปลงของ rate ราคา
+	- ![[Pasted image 20250910165911.png]]
+- [[pyus_order]]
