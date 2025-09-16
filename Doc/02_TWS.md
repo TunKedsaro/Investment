@@ -1,0 +1,8 @@
+- source : https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#tws-config-api
+- ![[Pasted image 20250910140355.png]]
+- Port 7496 : พอร์ตจริง
+- Port 7497 : พอร์ตกระดาษ
+- ![[Pasted image 20250910140503.png]]
+- ![[Pasted image 20250910140649.png]]
+- ![[Pasted image 20250910141029.png]]
+- ![[Pasted image 20250910141207.png]]
